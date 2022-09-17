@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ansike/gdp-data#readme",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.12"
+    "cheerio": "^1.0.0-rc.12",
+    "zlib": "^1.0.5"
   }
 }
