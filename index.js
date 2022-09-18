@@ -15,7 +15,7 @@ async function main() {
     await getGdpLinks();
   }
   const gdpLinks = require("./gdp.json");
-  const limit = new Limit(4);
+  const limit = new Limit(3);
   const all = await Promise.all(
     gdpLinks.map((link) => limit.call(getGdpData, link))
   );

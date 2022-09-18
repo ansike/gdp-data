@@ -17,7 +17,8 @@
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/200203/t20020331_29995.html",
-		"year": "1982"
+		"year": "1982",
+		"increasePercent": "4.5%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/200203/t20020331_29996.html",
@@ -62,149 +63,246 @@
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/200203/t20020331_30006.html",
 		"year": "1992",
-		"allData": "23938亿元"
+		"currentGdp": "23938亿元"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/200203/t20020331_30007.html",
 		"year": "1993",
-		"allData": "31380亿元"
+		"currentGdp": "31380亿元"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/200203/t20020331_30008.html",
 		"year": "1994",
-		"allData": "43800亿元"
+		"currentGdp": "43800亿元"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/200203/t20020331_30009.html",
 		"year": "1995",
-		"allData": "57733亿元"
+		"currentGdp": "57733亿元",
+		"increasePercent": "6.2%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/200203/t20020331_30010.html",
 		"year": "1996",
-		"allData": "67795亿元"
+		"currentGdp": "67795亿元"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/200203/t20020331_30011.html",
 		"year": "1997",
-		"allData": "74772亿元"
+		"currentGdp": "74772亿元"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/200203/t20020331_30012.html",
 		"year": "1998",
-		"allData": "79553亿元"
+		"currentGdp": "79553亿元",
+		"increasePercent": "7.8%",
+		"firstIndustryIncreasePercent": "3.5%",
+		"secondIndustryIncreasePercent": "9.2%",
+		"thirdIndustryIncreasePercent": "7.6%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/200203/t20020331_30013.html",
-		"year": "1999"
+		"year": "1999",
+		"increasePercent": "7.1%",
+		"firstIndustryIncreasePercent": "2.8%",
+		"secondIndustryIncreasePercent": "8.1%",
+		"thirdIndustryIncreasePercent": "7.5%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/200203/t20020331_30014.html",
 		"year": "2000",
-		"allData": "89404亿元"
+		"currentGdp": "89404亿元",
+		"increasePercent": "8.0%",
+		"firstIndustryIncreasePercent": "2.4%",
+		"secondIndustryIncreasePercent": "9.6%",
+		"thirdIndustryIncreasePercent": "7.8%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/200203/t20020331_30015.html",
 		"year": "2001",
-		"allData": "95933亿元"
+		"currentGdp": "95933亿元",
+		"increasePercent": "7.3%",
+		"firstIndustryIncreasePercent": "2.8%",
+		"secondIndustryIncreasePercent": "8.7%",
+		"thirdIndustryIncreasePercent": "7.4%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/200302/t20030228_30016.html",
-		"year": "2002"
+		"year": "2002",
+		"increasePercent": "8%",
+		"firstIndustryIncreasePercent": "2.9%",
+		"secondIndustryIncreasePercent": "9.9%",
+		"thirdIndustryIncreasePercent": "7.3%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/200402/t20040226_30017.html",
 		"year": "2003",
-		"allData": "116694亿元"
+		"currentGdp": "116694亿元",
+		"increasePercent": "9.1%",
+		"firstIndustryIncreasePercent": "2.5%",
+		"secondIndustryIncreasePercent": "12.5%",
+		"thirdIndustryIncreasePercent": "6.7%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/200502/t20050228_30018.html",
 		"year": "2004",
-		"allData": "136515亿元"
+		"currentGdp": "136515亿元",
+		"increasePercent": "9.5%",
+		"firstIndustryIncreasePercent": "6.3%",
+		"secondIndustryIncreasePercent": "11.1%",
+		"thirdIndustryIncreasePercent": "8.3%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/200602/t20060227_30019.html",
 		"year": "2005",
-		"allData": "182321亿元"
+		"currentGdp": "182321亿元",
+		"increasePercent": "9.9%",
+		"firstIndustryIncreasePercent": "5.2%",
+		"secondIndustryIncreasePercent": "11.4%",
+		"thirdIndustryIncreasePercent": "9.6%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/200702/t20070228_30021.html",
 		"year": "2006",
-		"allData": "209407亿元"
+		"currentGdp": "209407亿元",
+		"increasePercent": "10.7%",
+		"firstIndustryIncreasePercent": "5.0%",
+		"secondIndustryIncreasePercent": "12.5%",
+		"thirdIndustryIncreasePercent": "10.3%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/200802/t20080228_30022.html",
 		"year": "2007",
-		"allData": "246619亿元"
+		"currentGdp": "246619亿元",
+		"increasePercent": "11.4%",
+		"firstIndustryIncreasePercent": "3.7%",
+		"secondIndustryIncreasePercent": "13.4%",
+		"thirdIndustryIncreasePercent": "11.4%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/200902/t20090226_30023.html",
 		"year": "2008",
-		"allData": "300670亿元"
+		"currentGdp": "300670亿元",
+		"increasePercent": "9.0%",
+		"firstIndustryIncreasePercent": "5.5%",
+		"secondIndustryIncreasePercent": "9.3%",
+		"thirdIndustryIncreasePercent": "9.5%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/201002/t20100225_30024.html",
 		"year": "2009",
-		"allData": "335353亿元"
+		"currentGdp": "335353亿元",
+		"increasePercent": "8.7%",
+		"firstIndustryIncreasePercent": "4.2%",
+		"secondIndustryIncreasePercent": "9.5%",
+		"thirdIndustryIncreasePercent": "8.9%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/201102/t20110228_30025.html",
 		"year": "2010",
-		"allData": "397983亿元"
+		"currentGdp": "397983亿元",
+		"increasePercent": "10.3%",
+		"firstIndustryIncreasePercent": "4.3%",
+		"secondIndustryIncreasePercent": "12.2%",
+		"thirdIndustryIncreasePercent": "9.5%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/201202/t20120222_30026.html",
 		"year": "2011",
-		"allData": "471564亿元"
+		"currentGdp": "471564亿元",
+		"increasePercent": "9.2%",
+		"firstIndustryIncreasePercent": "4.5%",
+		"secondIndustryIncreasePercent": "10.6%",
+		"thirdIndustryIncreasePercent": "8.9%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/qgndtjgb/201302/t20130221_30027.html",
 		"year": "2012",
-		"allData": "519322亿元"
+		"currentGdp": "519322亿元",
+		"increasePercent": "7.8%",
+		"firstIndustryIncreasePercent": "4.5%",
+		"secondIndustryIncreasePercent": "8.1%",
+		"thirdIndustryIncreasePercent": "8.1%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/zxfb/201402/t20140224_514970.html",
 		"year": "2013",
-		"allData": "568845亿元"
+		"currentGdp": "568845亿元",
+		"increasePercent": "7.7%",
+		"firstIndustryIncreasePercent": "4.0%",
+		"secondIndustryIncreasePercent": "7.8%",
+		"thirdIndustryIncreasePercent": "8.3%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/zxfb/201502/t20150226_685799.html",
 		"year": "2014",
-		"allData": "636463亿元"
+		"currentGdp": "636463亿元",
+		"increasePercent": "7.4%",
+		"firstIndustryIncreasePercent": "4.1%",
+		"secondIndustryIncreasePercent": "7.3%",
+		"thirdIndustryIncreasePercent": "8.1%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/zxfb/201602/t20160229_1323991.html",
 		"year": "2015",
-		"allData": "676708亿元"
+		"currentGdp": "676708亿元",
+		"increasePercent": "6.9%",
+		"firstIndustryIncreasePercent": "3.9%",
+		"secondIndustryIncreasePercent": "6.0%",
+		"thirdIndustryIncreasePercent": "8.3%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/zxfb/201702/t20170228_1467424.html",
 		"year": "2016",
-		"allData": "744127亿元"
+		"currentGdp": "744127亿元",
+		"increasePercent": "6.7%",
+		"firstIndustryIncreasePercent": "3.3%",
+		"secondIndustryIncreasePercent": "6.1%",
+		"thirdIndustryIncreasePercent": "7.8%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/zxfb/201802/t20180228_1585631.html",
 		"year": "2017",
-		"allData": "827122亿元"
+		"currentGdp": "827122亿元",
+		"increasePercent": "6.9%",
+		"firstIndustryIncreasePercent": "3.9%",
+		"secondIndustryIncreasePercent": "6.1%",
+		"thirdIndustryIncreasePercent": "8.0%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/zxfb/201902/t20190228_1651265.html",
 		"year": "2018",
-		"allData": "900309亿元"
+		"currentGdp": "900309亿元",
+		"increasePercent": "6.6%",
+		"firstIndustryIncreasePercent": "3.5%",
+		"secondIndustryIncreasePercent": "5.8%",
+		"thirdIndustryIncreasePercent": "7.6%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/zxfb/202002/t20200228_1728913.html",
 		"year": "2019",
-		"allData": "990865亿元"
+		"currentGdp": "990865亿元",
+		"increasePercent": "6.1%",
+		"firstIndustryIncreasePercent": "3.1%",
+		"secondIndustryIncreasePercent": "5.7%",
+		"thirdIndustryIncreasePercent": "6.9%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/zxfb/202102/t20210227_1814154.html",
 		"year": "2020",
-		"allData": "1015986亿元"
+		"currentGdp": "1015986亿元",
+		"increasePercent": "2.3%",
+		"firstIndustryIncreasePercent": "3.0%",
+		"secondIndustryIncreasePercent": "2.6%",
+		"thirdIndustryIncreasePercent": "2.1%"
 	},
 	{
 		"url": "http://www.stats.gov.cn/tjsj/zxfb/202202/t20220227_1827960.html",
 		"year": "2021",
-		"allData": "1143670亿元"
+		"currentGdp": "1143670亿元",
+		"increasePercent": "8.1%",
+		"firstIndustryIncreasePercent": "7.1%",
+		"secondIndustryIncreasePercent": "8.2%",
+		"thirdIndustryIncreasePercent": "8.2%"
 	}
 ]
